@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "mama_right.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1189,
+				"h": 841
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mommy_right2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 610,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 610,
+						"h": 839
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 610,
+						"h": 839
+					}
+				},
+				{
+					"filename": "mommy_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 575,
+						"h": 839
+					},
+					"frame": {
+						"x": 613,
+						"y": 1,
+						"w": 575,
+						"h": 839
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2c4da432bbd57a2461cfadf41f4a2fa5:0294126fba944100e1d14f371af7f897:ecf20703a7d507981fbd8f63f9beb09b$"
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "erik_all.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1199,
+				"h": 1605
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "erik_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 623,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 40,
+						"w": 622,
+						"h": 799
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 622,
+						"h": 799
+					}
+				},
+				{
+					"filename": "erik_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 573,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 573,
+						"h": 802
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 573,
+						"h": 802
+					}
+				},
+				{
+					"filename": "erik_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 617,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 617,
+						"h": 802
+					},
+					"frame": {
+						"x": 1,
+						"y": 802,
+						"w": 617,
+						"h": 802
+					}
+				},
+				{
+					"filename": "erik_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 578,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 578,
+						"h": 798
+					},
+					"frame": {
+						"x": 620,
+						"y": 805,
+						"w": 578,
+						"h": 798
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4f7d824c22661ac420f5f67eb6b64aae:769b8f20e2c9242cd8e2a523f5c26846:a690d05ea5a8dd1601f21ab3b3870f8f$"
+	}
+}

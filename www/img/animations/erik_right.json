@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "erik_right.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1194,
+				"h": 804
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "erik_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 617,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 617,
+						"h": 802
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 617,
+						"h": 802
+					}
+				},
+				{
+					"filename": "erik_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 573,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 573,
+						"h": 802
+					},
+					"frame": {
+						"x": 620,
+						"y": 1,
+						"w": 573,
+						"h": 802
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:56a399343e71efd445aec0aa1a2b19d3:16029d19f38faca8e523e380f4d7a1bf:681f58f9ef377a24b514b69a7e8b8c0a$"
+	}
+}

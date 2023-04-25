@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "deliveryboy_right.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 828,
+				"h": 1601
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "devlivery_right12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 826,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 42,
+						"w": 826,
+						"h": 797
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 826,
+						"h": 797
+					}
+				},
+				{
+					"filename": "devlivery_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 823,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 823,
+						"h": 800
+					},
+					"frame": {
+						"x": 1,
+						"y": 800,
+						"w": 823,
+						"h": 800
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f60ceb7bf370e44c6695b0d39274f946:96b9441a907a76755bd0ffe684ce68d9:96b139d6f362a11778f473e62de7d243$"
+	}
+}

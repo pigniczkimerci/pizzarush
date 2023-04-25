@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "ninja_right.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1498,
+				"h": 779
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ninja_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 769,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 62,
+						"w": 768,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 768,
+						"h": 777
+					}
+				},
+				{
+					"filename": "ninja_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 726,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 62,
+						"w": 726,
+						"h": 777
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 726,
+						"h": 777
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:50b9c2c96d39a2b4e52b71aa5aa57cd9:f6da6dca450ac78b62adb5f102eeb250:882d73a6c88f90c54ba54bb5838daf82$"
+	}
+}

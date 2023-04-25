@@ -1,0 +1,12 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+html, body{
+    overflow: hidden;
+    font-family: "Font";
+}
+@font-face {
+    font-family: Font;
+    src: url("../img/fonts/VT323-Regular.ttf");
+}

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "es6",
+      "sourceMap": true,
+      "outDir": "www/dist",
+      "lib": ["es6", "dom"],
+      "moduleResolution": "node",
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "strictNullChecks": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "include": [
+      "www/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ],
+}

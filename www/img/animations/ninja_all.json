@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "ninja_all.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1498,
+				"h": 1558
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ninja_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 769,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 62,
+						"w": 768,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 768,
+						"h": 777
+					}
+				},
+				{
+					"filename": "ninja_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 769,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 62,
+						"w": 768,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 780,
+						"w": 768,
+						"h": 777
+					}
+				},
+				{
+					"filename": "ninja_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 726,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 62,
+						"w": 726,
+						"h": 777
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 726,
+						"h": 777
+					}
+				},
+				{
+					"filename": "ninja_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 62,
+						"w": 721,
+						"h": 777
+					},
+					"frame": {
+						"x": 771,
+						"y": 780,
+						"w": 721,
+						"h": 777
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:46203f7f9f5003631262ad35174a0316:dbb4ff30c011dd4d7169ece742009c55:d701b0b8227b9aa71c5d01da81774235$"
+	}
+}

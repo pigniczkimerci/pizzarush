@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "deliveryboy2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 100,
+				"h": 100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deliveryboy2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 100,
+						"h": 100
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:10078dc9f49c0076808101f55dd5cb55:26dc2f46e2e740aad44234f4a9f2ca46:799ab4035bef902836635b1fc53e67df$"
+	}
+}

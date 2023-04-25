@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "mama_all.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1188,
+				"h": 1682
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mommy_right2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 610,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 610,
+						"h": 839
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 610,
+						"h": 839
+					}
+				},
+				{
+					"filename": "mommy_left2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 589,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 589,
+						"h": 839
+					},
+					"frame": {
+						"x": 1,
+						"y": 842,
+						"w": 589,
+						"h": 839
+					}
+				},
+				{
+					"filename": "mommy_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 575,
+						"h": 839
+					},
+					"frame": {
+						"x": 592,
+						"y": 842,
+						"w": 575,
+						"h": 839
+					}
+				},
+				{
+					"filename": "mommy_left1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 574,
+						"h": 839
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 574,
+						"h": 839
+					},
+					"frame": {
+						"x": 613,
+						"y": 1,
+						"w": 574,
+						"h": 839
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:73b37ab320e10e80213f3cdd9db99adc:ca9f6ff36ba40175bf8c3410a2d587d0:88836bf47f7bed01127dbfb97d47f563$"
+	}
+}
