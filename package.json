@@ -1,11 +1,10 @@
 {
-  "name": "io.cordova.hellocordova",
-  "displayName": "HelloCordova",
+  "name": "phaser",
+  "displayName": "phaser",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "A sample phaser game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode development",
     "start": " webpack-dev-server --mode development",
     "build_android": "cordova build android",
@@ -14,8 +13,8 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
-  "license": "Apache-2.0",
+  "author": "Pigniczki Mercédesz Tamara",
+  "license": "MIT",
   "devDependencies": {
     "@babel/preset-env": "^7.20.2",
     "babel-loader": "^9.1.2",
