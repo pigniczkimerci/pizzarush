@@ -19,6 +19,3 @@ The project comes with several scripts defined in the package.json file, which c
 ### start: Starts a development server using webpack-dev-server.
 ### build_android: Builds the game for the Android platform using Cordova.
 ### run_android: Runs the game on an Android device or emulator using Cordova.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for more information.
